@@ -6,5 +6,5 @@
 
 **编号** | **范围** | **标题** | **提案人** | **类型** | **状态**
 -|-|-|-|-|-
-[5](jip-0005.md) | 社区提案 | Jouleverse首支生态基金ecofund1成立拨款1.44亿WJ | @楼兰渔夫 @LouisAwesome @岑云 @火星 @煜歌 @OPEN @明海云 | 生态预算申请 | 活跃
+[5](jip-0005.md) | 社区提案 | Jouleverse首支生态基金ecofund1成立拨款1.44亿WJ | @楼兰渔夫 <br> @LouisAwesome <br> @岑云 <br> @火星 <br> @煜歌 <br> @OPEN <br> @明海云 | 生态预算申请 | 活跃
 
