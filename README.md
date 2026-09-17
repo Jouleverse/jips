@@ -11,4 +11,5 @@ Jouleverse社区(含核心和生态)的任何人都可以提交JIP：
 **编号** | **范围** | **标题** | **提案人** | **类型** | **状态**
 -|-|-|-|-|-
 [5](jip-0005.md) | 生态发展提案 | Jouleverse首支生态基金ecofund1成立拨款1.44亿WJ | @楼兰渔夫 <br> @LouisAwesome <br> @岑云 <br> @火星 <br> @煜歌 <br> @OPEN <br> @明海云 | 生态预算申请 | 活跃
+[6](jip-0006.md) | 治理流程提案 | 将 jips 改进为 jeeps — Jouleverse Ecosystem Evolution Proposal(s) 🚙（JIP-6 = JEEP-6） | @教链(J-25) <br> @xiaoxin2140 | 治理流程提案 | 公示（温度检查）
 
