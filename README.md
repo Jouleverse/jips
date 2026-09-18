@@ -1,4 +1,4 @@
-# Jouleverse Ecosystem Evolution Proposal(s) —— 焦耳宇宙生态演进提案
+# Jouleverse Improvement Proposals - 焦耳宇宙改进提案
 
 Jouleverse社区(含核心和生态)的任何人都可以提交JIP：
 - core JIP（核心提案）：需要先上[CGC会议](https://github.com/Jouleverse/open-meetings/)向大家阐述你的基本理念，经大家共同商议后，fork该repo并发起PR。
